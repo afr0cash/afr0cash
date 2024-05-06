@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afr0cash
 - 👀 I’m interested in web development and UI design
-- 🌱 I’m finished learning JavaScript
+- 🌱 I finished learning JavaScript
 - 💞️ I’m looking to collaborate on web development and app design
 - 📫 How to reach me Email adeniyi.damilolayusuf.96@gmail.com
 
